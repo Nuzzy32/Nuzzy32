@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a new project called Literasiku<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning all the programming language<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a new project called Literasiku, Riskala Lite<br>👯 I’m looking to collaborate on<br><br>🌱 I’m currently learning flutter framework, html + css, React, MySql Etc.
 
 
 ## 🌐 Socials:
