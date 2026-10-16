@@ -1,3 +1,16 @@
+# 🌊 Featured Project: [Rivora](https://github.com/Nuzzy32/Rivora)
+
+<a href="https://github.com/Nuzzy32/Rivora">
+  <img src="https://raw.githubusercontent.com/Nuzzy32/Rivora/main/docs/video/preview.gif" width="100%" alt="Rivora product film preview" />
+</a>
+
+**Rivora** shows flood conditions per location for residents across Indonesia: water depth, last update, and who reported it. Citizen reports are verified per city/regency, alongside BMKG weather forecasts and emergency contacts.
+*Kenali kondisi. Siapkan langkah.*
+
+[![Repo](https://img.shields.io/badge/Repo-Rivora-5896FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuzzy32/Rivora) [![Watch](https://img.shields.io/badge/Watch-75s%20Product%20Film-806EF8?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Nuzzy32/Rivora/raw/main/docs/video/rivora-product-film.mp4) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on a new project called Literasiku, Riskala Lite<br>👯 I’m looking to collaborate on<br><br>🌱 I’m currently learning flutter framework, html + css, React, MySql Etc.
 
