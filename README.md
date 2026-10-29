@@ -11,6 +11,19 @@
 
 ---
 
+# 🧠 Featured Project: [Riskala Lite](https://github.com/Nuzzy32/RiskalaLite)
+
+<a href="https://github.com/Nuzzy32/RiskalaLite">
+  <img src="assets/riskala-lite/preview.gif" width="100%" alt="Riskala Lite brand film preview" />
+</a>
+
+**Riskala Lite** helps companies look after workplace stress. Employees log a daily mood check-in, take a short stress assessment, and file complaint reports; HR follows up from one dashboard. Simple and transparent scoring, no AI and no medical diagnosis.
+*Pantau. Peduli. Dukung.*
+
+[![Repo](https://img.shields.io/badge/Repo-Riskala%20Lite-3BA7B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuzzy32/RiskalaLite) [![Watch](https://img.shields.io/badge/Watch-50s%20Brand%20Film-1E3A5F?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Nuzzy32/Nuzzy32/raw/main/assets/riskala-lite/riskala-lite-film.mp4) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on a new project called Literasiku, Riskala Lite<br>👯 I’m looking to collaborate on<br><br>🌱 I’m currently learning flutter framework, html + css, React, MySql Etc.
 
